@@ -1,16 +1,16 @@
 # day02
 
-A new Flutter project.
+A new Flutter project with Animation.
 
-## Getting Started
+## Learn About 
+- Animation
+- Page View
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+<p float="left">
+<img src="https://user-images.githubusercontent.com/51056125/148838584-f28e6ae8-e044-43d5-8d58-62d617a9d627.jpeg" width="360" height="680">
+<img src="https://user-images.githubusercontent.com/51056125/148838595-f3b3928f-13e8-476a-b29a-0eb60c41a6cd.jpeg" width="360" height="680">
+<br>
+<img src="https://user-images.githubusercontent.com/51056125/148838602-e4f2792f-6e9b-4d65-b5a1-4c62fb60b50a.jpeg" width="360" height="680">
+<img src="https://user-images.githubusercontent.com/51056125/148838609-de508cb5-205e-4fea-9aa4-1b97c4268525.jpeg" width="360" height="680">
+<p>
